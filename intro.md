@@ -10,3 +10,4 @@ Ahead, you have four choices:
 - **Stay where you are**: Perhaps you decide to wait and see if something happens or if someone appears.
 
 Which path will you choose? Please explain the reason for your choice.
+- [Go to the forest](RongXin.md)
