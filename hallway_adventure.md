@@ -5,4 +5,5 @@ I’d choose the path to the right leading to the old bridge. I am going to take
 
 What about you? Which would you choose, and why?
 
-[hidden_room.md](Main)
+[hidden_room.md](url)
+
