@@ -1,0 +1,2 @@
+**stay where you**
+I'd choose this part because it involves waiting for something to happen instead of actively exploring. While it can sometimes lead to interesting events, there's also a chance that nothing happens, and the story might stall or take a slower pace. This path could be the least engaging since you're relying on external forces rather than making a choice to move forward.
