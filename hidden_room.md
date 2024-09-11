@@ -6,4 +6,4 @@ glowing orb at its center on the old bridge. The orb seems to be pulsating with 
 - *Option B1.3.1*: Touch the glowing orb.
 - *Option B1.3.2*: Examine the artifacts around the room.
 
-- [go to hallway_adventure.md](url)
+
