@@ -1,0 +1,1 @@
+I choose the **path to the left** because the dense forest, though mysterious and dark, feels like a place where secrets might be uncovered. The sense of curiosity outweighs the fear of the unknown, and I want to see what lies ahead in the shadows, possibly discovering the source of the strange light.
