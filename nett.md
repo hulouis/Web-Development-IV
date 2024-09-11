@@ -1,0 +1,1 @@
+I decided to choose- **The path to the right**: This path leads to an old bridge, with the other side shrouded in thick fog. Drawn by the mystery beyond the fog. The left path felt too unsafe, but the unknown called to your curiosity. Despite the unease, you stepped forward, knowing the answers lay in the unseen.
