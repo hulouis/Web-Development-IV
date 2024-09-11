@@ -19,6 +19,6 @@ Option B1: Take the flashlight and venture into the hallway.
 stage-4
 new change test (by RongXin)
 
-- [path to the left](RongXin.md)
-- [hallway](hallway_adventure.md)
+- [path to the left](RongXin.md) (rongxin choose)
+- [hallway](hallway_adventure.md) (Ogbo0012 choose)
 
